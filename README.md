@@ -2,6 +2,12 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
+Сreate .env file:
+
+```.env
+API_URL = "https://rickandmortyapi.com"
+```
+
 First, run the development server:
 
 ```bash
